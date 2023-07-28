@@ -10,7 +10,7 @@ The hosted site uses the Realtime Database Module for getting and updating infor
 * Position and rotate sticky notes in 3D space using gestures.
 * Save sticky notes in the AR scene, allowing them to persist across sessions.
 * View and edit existing sticky notes in the AR scene.
-* Display inspirational quotes as virtual sticky notes from a remote server.
+* Display inspirational quotes as virtual sticky notes from a remote server through an API request.
 
 ## Technologies Used
 * A-Frame: A web framework for building AR and VR experiences using HTML and JavaScript.
