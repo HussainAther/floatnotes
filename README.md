@@ -25,9 +25,11 @@ Open the project in a code editor of your choice.
 
 ## Set up Firebase Realtime Database:
 
+Optional, but for use on local servers. 
+
 1. Create a Firebase project on the Firebase Console (https://console.firebase.google.com/).
 2. Enable the Realtime Database in the Firebase project.
-3. Copy the Firebase configuration object and replace it in `firebase-config.js`.
+3. Copy the Firebase configuration object and replace it in a file named `firebase-config.js`.
 4. Host the project on a local server or deploy it to a web server.
 5. Open the project in a web browser on a device with AR capabilities.
 
