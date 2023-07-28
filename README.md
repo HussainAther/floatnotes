@@ -1,6 +1,8 @@
 # Float Notes
 Float Notes is an augmented reality (AR) application that allows users to create and display virtual sticky notes in their physical environment using their device's camera. Users can write notes on these virtual sticky notes, position them in 3D space, and have them persist in their AR scene.
 
+For realtime Firebase database access, view on the hosted site: https://www.8thwall.com/floatnotesapp/floatnotes
+
 ## Features
 Create virtual sticky notes with customizable text and colors.
 Position and rotate sticky notes in 3D space using gestures.
@@ -16,7 +18,7 @@ Firebase Realtime Database: A cloud-hosted NoSQL database used to store and retr
 Clone the repository to your local machine:
 
 ```
-git clone <repository-url>
+git clone https://github.com/HussainAther/floatnotes.git
 ```
 
 Open the project in a code editor of your choice.
