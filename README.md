@@ -3,16 +3,18 @@ Float Notes is an augmented reality (AR) application that allows users to create
 
 For realtime Firebase database access, view on the hosted site: https://www.8thwall.com/floatnotesapp/floatnotes
 
+The hosted site uses the Realtime Database Module for getting and updating information that the user sends so that they can create notes and store them in a databse: https://www.8thwall.com/diegousdz/modules/firebase-realtime-database
+
 ## Features
-Create virtual sticky notes with customizable text and colors.
-Position and rotate sticky notes in 3D space using gestures.
-Save sticky notes in the AR scene, allowing them to persist across sessions.
-View and edit existing sticky notes in the AR scene.
-Display inspirational quotes as virtual sticky notes from a remote server.
+* Create virtual sticky notes with customizable text and colors.
+* Position and rotate sticky notes in 3D space using gestures.
+* Save sticky notes in the AR scene, allowing them to persist across sessions.
+* View and edit existing sticky notes in the AR scene.
+* Display inspirational quotes as virtual sticky notes from a remote server.
 
 ## Technologies Used
-A-Frame: A web framework for building AR and VR experiences using HTML and JavaScript.
-Firebase Realtime Database: A cloud-hosted NoSQL database used to store and retrieve sticky note data.
+* A-Frame: A web framework for building AR and VR experiences using HTML and JavaScript.
+* Firebase Realtime Database: A cloud-hosted NoSQL database used to store and retrieve sticky note data.
 
 ## Getting Started
 Clone the repository to your local machine:
@@ -36,8 +38,7 @@ Optional, but for use on local servers.
 ## How to Use
 Allow the browser to access your device's camera.
 
-Use gestures (touch or mouse) to interact with the AR scene:
-
+* Use gestures (touch or mouse) to interact with the AR scene. 
 * Tap on the screen to create a new sticky note.
 * Tap on an existing sticky note to start editing its text.
 * Drag and move a sticky note to reposition it in the 3D space.
